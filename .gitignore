@@ -1,0 +1,11 @@
+# Generated report output and source uploads
+reports/processed/
+reports/raw_files/
+
+# OS and editor junk
+Thumbs.db
+.DS_Store
+*.pyc
+__pycache__/
+.venv/
+venv/
