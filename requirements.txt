@@ -1,0 +1,7 @@
+pandas
+openpyxl
+python-docx
+tkcalendar
+PyPDF2
+docx2pdf
+Pillow
